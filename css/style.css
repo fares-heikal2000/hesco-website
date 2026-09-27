@@ -2625,15 +2625,15 @@ display: flex;
    ----------------------------------------- */
 
 .oilgas-filter-oil {
-    background-image: url("/images/11.jpeg");
+    background-image: url("../images/11.jpeg");
 }
 
 .oilgas-filter-industry {
-    background-image: url("/images/22.jpeg");
+    background-image: url("../images/22.jpeg");
 }
 
 .oilgas-filter-fuel {
-    background-image: url("/images/33.jpeg");
+    background-image: url("../images/33.jpeg");
 }
 
 
